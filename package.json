@@ -30,7 +30,6 @@
   ],
   "dependencies": {
     "async": "~1.4.2",
-    "gtoken": "^1.1.0",
     "lodash.noop": "~3.0.0",
     "jws": "~3.0.0",
     "request": "~2.72.0",
